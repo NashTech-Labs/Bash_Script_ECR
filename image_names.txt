@@ -1,0 +1,3 @@
+Here in this text file we place the name of the images that we want to push
+For Eg: 
+Nginx:2.0
